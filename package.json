@@ -1,0 +1,16 @@
+{
+  "name": "selling-cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "live-sass": "node-sass -w main.scss style.css"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}

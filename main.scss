@@ -1,0 +1,27 @@
+$dark: rgb(31,27,46);
+$primary: #fd5631;
+
+
+/* Dropdown */
+$dropdown-bg:                       $dark;
+$dropdown-color:                  white;
+$dropdown-border-color:          rgba(255, 255, 255, 0.493);
+$dropdown-link-color:            white;
+$dropdown-link-hover-color:            rgba(255, 255, 255, 0.493);
+$dropdown-link-hover-bg:      $dark;
+/* Shadow */
+$box-shadow:                  0 .5rem 1rem rgba(255, 255, 255, 0.678);
+/* Accordion */
+$accordion-bg:                  transparent;
+$accordion-border-color:                transparent;
+$accordion-border-radius:               0px;
+$accordion-button-color:               black;
+$accordion-button-bg:                   rgba(255, 255, 255, 0.349);
+/* Info */
+$info: rgba(69,64,86,0.765);
+
+
+.carousel {
+    height: 100%;
+}
+@import "node_modules/bootstrap/scss/bootstrap";
